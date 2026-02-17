@@ -1,6 +1,6 @@
 # 分镜AI提示词工作台
 
-一个功能强大的单页应用，帮助您高效管理和生成AI绘画分镜提示词。
+一个专注于本地资产管理的分镜头的单页应用，帮助您高效管理和生成AI绘画分镜提示词。
 
 ## ✨ 功能特性
 
@@ -39,7 +39,7 @@
 ## 🚀 快速开始
 
 ### 使用方法
-1. 下载 `storyboard_workbench_enhanced.html` 文件
+1. 下载 `storyboard_workbench.html` 文件
 2. 用浏览器直接打开该文件
 3. 开始使用！
 
@@ -71,8 +71,6 @@
 
 ## 📁 文件说明
 
-- `storyboard_workbench_enhanced.html` - 主应用文件（增强版）
-- `storyboard_workbench_final.html` - 原始版本
 
 ## 🔧 技术栈
 
@@ -94,6 +92,7 @@
 ## 📧 联系方式
 
 如有问题或建议，欢迎通过 GitHub Issues 联系。
+亦可联系我的邮箱supca@qq.com
 
 ---
 
